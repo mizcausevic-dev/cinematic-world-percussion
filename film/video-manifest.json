@@ -1,0 +1,26 @@
+{
+  "title": "Cinematic World Percussion",
+  "study": "wp01",
+  "bpm": 100,
+  "source_audio": "preview/cinematic-world-percussion-simple-synth-preview.mp3",
+  "source_audio_sha256": "d3d5ee31263e336bc97bcc8875d8d853eebc33468adaa0aa30361080a15e0d5e",
+  "source_midi": "midi/wp01-bronze-hall/wp01-bronze-hall-combined.mid",
+  "source_midi_sha256": "7025c1146a3811abab2551bfab7e857251595b14c3c4471ce27a70d4772260b4",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "47e5799dd13d9bacc9dc4b45476ec8eaadbbe7db1c923f682b041fac0fa02fb6",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "ad4e2431d0c32027c2b435cd7d16a9a446821ce2afd3ff0a90ae2cb82fb19845",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "07d097721e78a4833f2579bb2a0ca8a7e27abb6bc7f53e976a0eb495516c83cf",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

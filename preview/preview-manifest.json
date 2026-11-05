@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/cinematic-world-percussion-simple-synth-preview.mp3",
+  "preview_sha256": "d3d5ee31263e336bc97bcc8875d8d853eebc33468adaa0aa30361080a15e0d5e",
+  "source_midi_path": "midi/wp01-bronze-hall/wp01-bronze-hall-combined.mid",
+  "source_midi_sha256": "7025c1146a3811abab2551bfab7e857251595b14c3c4471ce27a70d4772260b4",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "wp01",
+    "start_seconds": 0,
+    "end_seconds": 76.8
+  },
+  "measurement": {
+    "sample_peak": 0.139863,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

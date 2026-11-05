@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+wp01,Bronze Hall,pack-local equal-tempered pitch collection,C,100,4/4,480,32,61440,midi/wp01-bronze-hall/wp01-bronze-hall-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+wp02,Stone Echo,pack-local equal-tempered pitch collection,D#,100,4/4,480,32,61440,midi/wp02-stone-echo/wp02-stone-echo-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+wp03,Timber Arc,pack-local equal-tempered pitch collection,F#,100,4/4,480,32,61440,midi/wp03-timber-arc/wp03-timber-arc-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+wp04,Slow Strike,pack-local equal-tempered pitch collection,C#,100,4/4,480,32,61440,midi/wp04-slow-strike/wp04-slow-strike-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
