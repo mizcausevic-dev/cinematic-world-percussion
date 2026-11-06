@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/cinematic-world-percussion-simple-synth-preview.mp3",
-  "preview_sha256": "d3d5ee31263e336bc97bcc8875d8d853eebc33468adaa0aa30361080a15e0d5e",
+  "preview_sha256": "6c58481f36470ab6d56068666298375a0034c23b11cabc028aa1cb1011b83a54",
   "source_midi_path": "midi/wp01-bronze-hall/wp01-bronze-hall-combined.mid",
-  "source_midi_sha256": "7025c1146a3811abab2551bfab7e857251595b14c3c4471ce27a70d4772260b4",
+  "source_midi_sha256": "941134e21103fb27b27d1fff8d09735f3f49e08a1509f8421be50be9ee1e8904",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 76.8
   },
   "measurement": {
-    "sample_peak": 0.139863,
+    "sample_peak": 0.155489,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

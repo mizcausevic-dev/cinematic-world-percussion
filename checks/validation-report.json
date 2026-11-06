@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T14:19:39.611782+00:00",
+  "run_time_utc": "2026-11-06T19:24:35.090113+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,8 +26,8 @@
     },
     {
       "path": "midi/wp01-bronze-hall/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "16fa85d4a42b14b0a84561000995fc5674210d337326a9250833c1a0e9ecb684",
+      "bytes": 725,
+      "sha256": "59d451b780e5713faf5d2ebb03844f3e546f4b11978dd00237d9bea8f9d22c3a",
       "errors": []
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "path": "midi/wp01-bronze-hall/wp01-bronze-hall-combined.mid",
-      "bytes": 5199,
-      "sha256": "7025c1146a3811abab2551bfab7e857251595b14c3c4471ce27a70d4772260b4",
+      "bytes": 5433,
+      "sha256": "941134e21103fb27b27d1fff8d09735f3f49e08a1509f8421be50be9ee1e8904",
       "errors": []
     },
     {
@@ -68,8 +68,8 @@
     },
     {
       "path": "midi/wp02-stone-echo/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "97f5f71fb1eb1b941de03164812ae58fe4acfd879a920965a35374a32bc8481a",
+      "bytes": 724,
+      "sha256": "5562bda2ac86131d98131f1a562f1caf986485a88655431b57462acff6c6f21c",
       "errors": []
     },
     {
@@ -86,8 +86,8 @@
     },
     {
       "path": "midi/wp02-stone-echo/wp02-stone-echo-combined.mid",
-      "bytes": 5199,
-      "sha256": "534970d0b7c3a27851be3b9e5635697a228ffb44941f3fc2691f07bb80c5b37b",
+      "bytes": 5432,
+      "sha256": "1dd433d15e9d291cfa7b38f5557fc5dc7f018358211626042831042dcb720d68",
       "errors": []
     },
     {
@@ -110,8 +110,8 @@
     },
     {
       "path": "midi/wp03-timber-arc/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "8bd3914f2b29edba32acede06e1321b4cc8aa67cb6a8d7d31ff724ffee15f78b",
+      "bytes": 706,
+      "sha256": "b485f9d7d8f1719e29521da4b35c1167666417870c0ea9628ee9658449749ae0",
       "errors": []
     },
     {
@@ -128,8 +128,8 @@
     },
     {
       "path": "midi/wp03-timber-arc/wp03-timber-arc-combined.mid",
-      "bytes": 5179,
-      "sha256": "ce901ef5aefc60d0098f6a3c81e6feb1714f8cbf034ba7e035cd44754d3a42c2",
+      "bytes": 5414,
+      "sha256": "aebd14f13239a2471239016235e4c5a38db5315d576bad9b3abf022463144414",
       "errors": []
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "path": "midi/wp04-slow-strike/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "33dd32acadf2a6185b0243370e8d377bbf3f5a532035b88a0126d55b93f38dd1",
+      "bytes": 706,
+      "sha256": "3822a64aa1e80f3f5ae67b97968182f529e0fc25a10593b6af8a5865bd8fd373",
       "errors": []
     },
     {
@@ -170,8 +170,8 @@
     },
     {
       "path": "midi/wp04-slow-strike/wp04-slow-strike-combined.mid",
-      "bytes": 5179,
-      "sha256": "1c187b7ab56642d937e673b739e70190e54d76288346d8b5758338700f7a7077",
+      "bytes": 5414,
+      "sha256": "17eab96b91f78759b9367861fb46ec61ac67d9383b2d33e7efe51390a3ec6c93",
       "errors": []
     }
   ],

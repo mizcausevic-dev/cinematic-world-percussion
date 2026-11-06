@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 84128,
-      "sha256": "47e5799dd13d9bacc9dc4b45476ec8eaadbbe7db1c923f682b041fac0fa02fb6"
+      "bytes": 88444,
+      "sha256": "bea452ddb80b76f519bfcb2331b921eea57d1ce06c92e1325f8a51671122e2e4"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 391,
-      "sha256": "6119039b303bc94996c7f6d3f4b4feda4e109ff3f1e741cb5204af45715819f5"
+      "sha256": "5a9227999ae1a0551e491af34d9403ef10edb56cefcaa0c1678632b1350db829"
     },
     {
       "path": "checks/clip-validation.json",
@@ -108,8 +108,8 @@
     },
     {
       "path": "checks/media-validation.json",
-      "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "bytes": 518,
+      "sha256": "c71ad521a9cb3d3968a60a4f81b9d80ce0d7eba02633e5b1b83febfb5fd40a19"
     },
     {
       "path": "clips/wp01-drum-pattern-01.mid",
@@ -198,13 +198,13 @@
     },
     {
       "path": "downloads/cinematic-world-percussion-midi.zip",
-      "bytes": 27699,
-      "sha256": "922560bfe125fceb0cddf0fd4cabf32b472b9041e25756402c17e29bdabd18f3"
+      "bytes": 29725,
+      "sha256": "6f15e0786d48839ba986428c62993be61d44195fbe77c14aa882fc569113e9b0"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2575,
-      "sha256": "5e66114d5e69582e28fe03c64b13fc78fca67c433ee6b1eb51f82fea3f0f4cc7"
+      "bytes": 2682,
+      "sha256": "ab05719e35200128f9d9ae52c0308ef9ebe76cc597bac0323b7813e8519299fb"
     },
     {
       "path": "film/motion-overlay.png",
@@ -218,8 +218,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 795054,
-      "sha256": "07d097721e78a4833f2579bb2a0ca8a7e27abb6bc7f53e976a0eb495516c83cf"
+      "bytes": 811594,
+      "sha256": "2f7b1d70be71d0a12e1d3a77cbef3ed24b55399fde3725e99557f46d4668bbdf"
     },
     {
       "path": "film/preview.vtt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1189,
-      "sha256": "79242cd1d856b50319884aa09ca8a2bf7b8d1a28726ad1a20c7f10edd08abf4d"
+      "bytes": 1215,
+      "sha256": "5f44a41b1cdd3dee2ea8cd0a81b8d14c66f18fae64ac1c84699447b7a578110b"
     },
     {
       "path": "index.html",
-      "bytes": 9627,
-      "sha256": "36a86fbadbf7b418a7dfb6a44b61efeaec187953a40a7d5ff832b82ca4d66498"
+      "bytes": 9849,
+      "sha256": "f39bc4849151f806c68a21e8a7c564f387fc5e5a47734a53eeb0e7c9541d5dc6"
     },
     {
       "path": "midi/wp01-bronze-hall/chord_pulse.mid",
@@ -253,8 +253,8 @@
     },
     {
       "path": "midi/wp01-bronze-hall/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "16fa85d4a42b14b0a84561000995fc5674210d337326a9250833c1a0e9ecb684"
+      "bytes": 725,
+      "sha256": "59d451b780e5713faf5d2ebb03844f3e546f4b11978dd00237d9bea8f9d22c3a"
     },
     {
       "path": "midi/wp01-bronze-hall/sub_bass.mid",
@@ -268,8 +268,8 @@
     },
     {
       "path": "midi/wp01-bronze-hall/wp01-bronze-hall-combined.mid",
-      "bytes": 5199,
-      "sha256": "7025c1146a3811abab2551bfab7e857251595b14c3c4471ce27a70d4772260b4"
+      "bytes": 5433,
+      "sha256": "941134e21103fb27b27d1fff8d09735f3f49e08a1509f8421be50be9ee1e8904"
     },
     {
       "path": "midi/wp02-stone-echo/chord_pulse.mid",
@@ -288,8 +288,8 @@
     },
     {
       "path": "midi/wp02-stone-echo/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "97f5f71fb1eb1b941de03164812ae58fe4acfd879a920965a35374a32bc8481a"
+      "bytes": 724,
+      "sha256": "5562bda2ac86131d98131f1a562f1caf986485a88655431b57462acff6c6f21c"
     },
     {
       "path": "midi/wp02-stone-echo/sub_bass.mid",
@@ -303,8 +303,8 @@
     },
     {
       "path": "midi/wp02-stone-echo/wp02-stone-echo-combined.mid",
-      "bytes": 5199,
-      "sha256": "534970d0b7c3a27851be3b9e5635697a228ffb44941f3fc2691f07bb80c5b37b"
+      "bytes": 5432,
+      "sha256": "1dd433d15e9d291cfa7b38f5557fc5dc7f018358211626042831042dcb720d68"
     },
     {
       "path": "midi/wp03-timber-arc/chord_pulse.mid",
@@ -323,8 +323,8 @@
     },
     {
       "path": "midi/wp03-timber-arc/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "8bd3914f2b29edba32acede06e1321b4cc8aa67cb6a8d7d31ff724ffee15f78b"
+      "bytes": 706,
+      "sha256": "b485f9d7d8f1719e29521da4b35c1167666417870c0ea9628ee9658449749ae0"
     },
     {
       "path": "midi/wp03-timber-arc/sub_bass.mid",
@@ -338,8 +338,8 @@
     },
     {
       "path": "midi/wp03-timber-arc/wp03-timber-arc-combined.mid",
-      "bytes": 5179,
-      "sha256": "ce901ef5aefc60d0098f6a3c81e6feb1714f8cbf034ba7e035cd44754d3a42c2"
+      "bytes": 5414,
+      "sha256": "aebd14f13239a2471239016235e4c5a38db5315d576bad9b3abf022463144414"
     },
     {
       "path": "midi/wp04-slow-strike/chord_pulse.mid",
@@ -358,8 +358,8 @@
     },
     {
       "path": "midi/wp04-slow-strike/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "33dd32acadf2a6185b0243370e8d377bbf3f5a532035b88a0126d55b93f38dd1"
+      "bytes": 706,
+      "sha256": "3822a64aa1e80f3f5ae67b97968182f529e0fc25a10593b6af8a5865bd8fd373"
     },
     {
       "path": "midi/wp04-slow-strike/sub_bass.mid",
@@ -373,23 +373,28 @@
     },
     {
       "path": "midi/wp04-slow-strike/wp04-slow-strike-combined.mid",
-      "bytes": 5179,
-      "sha256": "1c187b7ab56642d937e673b739e70190e54d76288346d8b5758338700f7a7077"
+      "bytes": 5414,
+      "sha256": "17eab96b91f78759b9367861fb46ec61ac67d9383b2d33e7efe51390a3ec6c93"
     },
     {
       "path": "preview/cinematic-world-percussion-simple-synth-preview.mp3",
       "bytes": 1857036,
-      "sha256": "d3d5ee31263e336bc97bcc8875d8d853eebc33468adaa0aa30361080a15e0d5e"
+      "sha256": "6c58481f36470ab6d56068666298375a0034c23b11cabc028aa1cb1011b83a54"
     },
     {
       "path": "preview/preview-manifest.json",
       "bytes": 1137,
-      "sha256": "f05a3c50b195a6136532aab22e596d1fef4816d71b5ba6d1a622e0b6cb55d137"
+      "sha256": "6960050adc9c2038199557cc22230cd7509a2572e3b969ee06f91f22a0844c18"
     },
     {
       "path": "README.md",
-      "bytes": 3911,
-      "sha256": "414f3e1b13cf972dc306cc1046eac21d7853c1d393a5c068d2ae80b308706610"
+      "bytes": 4077,
+      "sha256": "aa3db58332f211e97c84a0979ab3b50deb46e427c38a29f6d93d5689044f0716"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 459,
+      "sha256": "3eacf0353039d04726de89d5e30850da6403bf4512bef6bf71ca90ebfdb2ee1f"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 92811,
-      "sha256": "a909c86d9cced0fc837b0ce3a2509056f0d1ae600cf48dc48e8baabd440cffee"
+      "bytes": 93249,
+      "sha256": "a834fb5b181a0b84d182b0e22192b7aaf5722e3f6b2c9448ec5050c6dfc7222b"
     },
     {
       "path": "tools/polish_release.py",
