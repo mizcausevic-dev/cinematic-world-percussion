@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/cinematic-world-percussion-midi.zip",
-      "bytes": 29725,
-      "sha256": "6f15e0786d48839ba986428c62993be61d44195fbe77c14aa882fc569113e9b0"
+      "bytes": 31759,
+      "sha256": "1c0f153c6fea70eb698061b47e1be7b4f115e7e54ef2c644b80d02aa7657443c"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9849,
-      "sha256": "f39bc4849151f806c68a21e8a7c564f387fc5e5a47734a53eeb0e7c9541d5dc6"
+      "bytes": 10039,
+      "sha256": "a7f9895ffd10c29b09ee694fc48e55256fd87a476f73f887e36a5ff684590d05"
     },
     {
       "path": "midi/wp01-bronze-hall/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "17eab96b91f78759b9367861fb46ec61ac67d9383b2d33e7efe51390a3ec6c93"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/cinematic-world-percussion-simple-synth-preview.mp3",
       "bytes": 1857036,
       "sha256": "6c58481f36470ab6d56068666298375a0034c23b11cabc028aa1cb1011b83a54"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4077,
-      "sha256": "aa3db58332f211e97c84a0979ab3b50deb46e427c38a29f6d93d5689044f0716"
+      "bytes": 4192,
+      "sha256": "32d1ae8c53954d080e75dbaa31f24f8f673d5391c3192910023ba036544c0f07"
     },
     {
       "path": "REVISION.md",
